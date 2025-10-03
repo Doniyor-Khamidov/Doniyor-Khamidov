@@ -1,7 +1,7 @@
 <!-- Profil README.md -->
 
 <h1 align="center">Hi 👋, I'm Doniyor</h1>
-<h3 align="center">A passionate backend developer from Uzbekistan 🚀</h3>
+<h3 align="center">I'm backend developer from Uzbekistan 🚀</h3>
 
 ---
 
