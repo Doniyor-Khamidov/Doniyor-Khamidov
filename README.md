@@ -1,24 +1,60 @@
-## Hi there 👋
-
-**Doni776/Doni776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Java-Script
-- 👯 I’m looking to collaborate on Google
-- ⚡ Fun fact: I like cats
+<!-- Profil README.md -->
 
 <h1 align="center">Hi 👋, I'm Doniyor</h1>
-<h3 align="center">A passionate backend developer from Uzbekistan</h3>
+<h3 align="center">A passionate backend developer from Uzbekistan 🚀</h3>
 
-- 👨‍💻 All of my projects are available at [https://t.me/backenddiary](https://t.me/backenddiary)
+---
 
-- 💬 Ask me about **t.me/@Bookmakerr**
+### 👨‍💻 About Me:
+- 🌱 I’m currently learning **JavaScript & Backend Development**
+- 👯 I’m looking to collaborate on **open-source projects**
+- ⚡ Fun fact: I really like **cats 🐱**
+- 📂 All of my projects are available at [@BackendDiary](https://t.me/backenddiary)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/doni0806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="doni0806" height="30" width="40" /></a>
+---
+![image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXc4dGRsZWlrYWYwbTduMjRxczc1MjdyNGJyc28xY2lqYjJjbzZhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgPfimuPbKymTaSpAl/giphy.gif)
+---
+
+<h3 align="center">📬 Connect with me:</h3>
+<p align="center">
+<a href="https://t.me/Bookmakerr" target="blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" width="40" height="40"/>
+</a>
+<a href="https://leetcode.com/Doni0806" target="blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/>
+</a>
+<a href="mailto:donyor6hamidov25@gmail.com" target="blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="40" height="40"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+<h3 align="center">🛠 Languages and Tools:</h3>
+<p align="center"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> 
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
+  </a>
+</p>
+
+---
+<h3 align="center">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Doniyor-Khamidov&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doniyor-Khamidov&theme=tokyonight" alt="streak" height="180"/>
+</p>
+---
+<h3 align="center">📊 Most Used Languages:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyor-Khamidov&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180"/>
+</p>
+
