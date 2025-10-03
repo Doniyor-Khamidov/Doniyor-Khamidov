@@ -52,7 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Doniyor-Khamidov&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doniyor-Khamidov&theme=tokyonight" alt="streak" height="180"/>
 </p>
----
 <h3 align="center">📊 Most Used Languages:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doniyor-Khamidov&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180"/>
