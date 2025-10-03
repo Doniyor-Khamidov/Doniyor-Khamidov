@@ -7,7 +7,6 @@
 
 ### 👨‍💻 About Me:
 - 🌱 I’m currently learning **JavaScript & Backend Development**
-- 👯 I’m looking to collaborate on **open-source projects**
 - ⚡ Fun fact: I really like **cats 🐱**
 - 📂 All of my projects are available at [@BackendDiary](https://t.me/backenddiary)
 
